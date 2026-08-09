@@ -1,0 +1,3 @@
+REF-AS-001|AZUL|Tubular de acero con tejido azul|200|100
+REF-AS-002|ROJO|Diseño macramé rojo|200|100
+REF-AS-003|NEGRO|Piel negra con detalles rojos|200|100
